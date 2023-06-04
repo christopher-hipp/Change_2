@@ -9,6 +9,23 @@ The basis for this idea is the **Rahakratt's Challenge**
 
 </details>
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 2. What is the MVP (Minimal Viable Product)?
 - The MVP will consist of a program that has:
     1. an array of predefined values that add up to 1000;
