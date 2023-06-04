@@ -1,13 +1,11 @@
 1. What is the project?
 - The Main project is a project to build an application that gives the user an amount of money to put into savings from your budget.
 
-![](https://static-img.aripaev.ee/?type=preview&uuid=c7f9cb3c-a446-5f7a-a420-f2d07810014d&width=2000&q=85)
-
 The basis for this idea is the **Rahakratt's Challenge**
 <details>
-    <summary>Click here to see image</summary>
+  <summary>Click here to see image</summary>
     
-    ![](https://static-img.aripaev.ee/?type=preview&uuid=c7f9cb3c-a446-5f7a-a420-f2d07810014d&width=2000&q=85)
+  ![](https://static-img.aripaev.ee/?type=preview&uuid=c7f9cb3c-a446-5f7a-a420-f2d07810014d&width=2000&q=85 "Rahakratt challenge")
 
 </details>
 
