@@ -13,7 +13,7 @@ The basis for this idea is **Rahakratt's Challenge**.
 The MVP will consist of a program that has:
 1. an array of predefined values that add up to 1000;
 
-  a. use same values as in original challenge (for some reason the total of these values is 1020, not 1000);
+   a. use same values as in original challenge (for some reason the total of these values is 1020, not 1000);
 
         6, 9, 19, 28, 22, 19, 35,
         15, 6, 28, 20, 17, 18, 22,
