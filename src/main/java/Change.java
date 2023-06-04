@@ -20,9 +20,10 @@ public class Change {
                                                 31, 18, 22, 27, 5, 23, 0,
                                                 8, 21, 15, 40, 12, 34, 11,
                                                 19, 25, 13, 22, 17, 9, 51,
-                                                33, 17};
+                                                33, 17, 20};
 
         Collections.addAll(this.array, initialArray);
+        System.out.println("Total of initial values is: " + valuesTotal() + "\n");
     }
 
     public int selectValue() {
@@ -42,6 +43,15 @@ public class Change {
 
     public int usedValuesTotal() {
         Iterator<Integer> iter = this.usedArray.iterator();
+        int total = 0;
+        while (iter.hasNext()) {
+            total += iter.next();
+        }
+        return total;
+    }
+
+    public int valuesTotal() {
+        Iterator<Integer> iter = this.array.iterator();
         int total = 0;
         while (iter.hasNext()) {
             total += iter.next();

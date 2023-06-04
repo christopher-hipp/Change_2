@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Interface {
@@ -34,9 +33,5 @@ public class Interface {
                 System.out.println("Total of used values: " + change.usedValuesTotal() + "\n");
             }
         }
-    }
-
-    public int getRandomValue() {
-        return change.selectValue();
     }
 }
