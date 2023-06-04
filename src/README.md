@@ -26,17 +26,17 @@ The MVP will consist of a program that has:
 
 2. the ability to give a random value from the array;
 
-  a. select random value;
-  b. display the value to the user;
+   a. select random value;
+   b. display the value to the user;
 
 3. the ability to keep track of changes in the array; and
 
-  a. add selected random value to array of used values;
-  b. remove selected random value from active array;
+   a. add selected random value to array of used values;
+   b. remove selected random value from active array;
 
 4. the ability to show the total amount saved in a separate array.
 
-  a. add used values to get the total amount saved.
+   a. add used values to get the total amount saved.
 
 ## What are the nice to haves?
 The nice to haves are the following:
@@ -44,7 +44,7 @@ The nice to haves are the following:
 2. the ability to randomise the values in the array, given that the total of these values is the custom amount;
 3. a simple visual representation of the array and values in the terminal,
 
-  a. and later on a proper GUI;
+   a. and later on a proper GUI;
 
 4. the ability to allow multiple savings profiles; and
 5. the ability to show the user's savings history.
