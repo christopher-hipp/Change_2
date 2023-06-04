@@ -27,11 +27,13 @@ The MVP will consist of a program that has:
 2. the ability to give a random value from the array;
 
    a. select random value;
+   
    b. display the value to the user;
 
 3. the ability to keep track of changes in the array; and
 
    a. add selected random value to array of used values;
+   
    b. remove selected random value from active array;
 
 4. the ability to show the total amount saved in a separate array.
