@@ -16,7 +16,7 @@ The basis for this idea is the Rahakratt's Challenge: https://drive.google.com/f
         31, 18, 22, 27, 5, 23, 0,
         8, 21, 15, 40, 12, 34, 11,
         19, 25, 13, 22, 17, 9, 51,
-        33, 17
+        33, 17, 20
 
     2. the ability to give a random value from the array;
         a. select random value;
