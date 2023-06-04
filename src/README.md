@@ -3,8 +3,8 @@ The Main project is a project to build an application that gives the user an amo
 
 The basis for this idea is **Rahakratt's Challenge**.
 <details>
-  <summary>Click here to see image</summary> 
-
+  <summary>Click here to see image</summary>
+    
   ![](https://static-img.aripaev.ee/?type=preview&uuid=c7f9cb3c-a446-5f7a-a420-f2d07810014d&width=2000&q=85 "Rahakratt challenge")
 
 </details>
@@ -27,13 +27,13 @@ The MVP will consist of a program that has:
 2. the ability to give a random value from the array;
 
    a. select random value;
-
+   
    b. display the value to the user;
 
 3. the ability to keep track of changes in the array; and
 
    a. add selected random value to array of used values;
-
+   
    b. remove selected random value from active array;
 
 4. the ability to show the total amount saved in a separate array.
@@ -54,5 +54,5 @@ The nice to haves are the following:
 **Note that this list is not exhaustive and will be subject to change as I progress.**
 
 ## When will the project be complete?
-When all of the above has been fulfilled. New ideas and improvements are welcomed throughout this process. 
+When all of the above has been fulfilled. New ideas and improvements are welcomed throughout this process.
 Project will be complete when I am happy with it, not when it gets difficult.
