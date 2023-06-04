@@ -1,8 +1,13 @@
 1. What is the project?
-- The Main project is a project to build an application that gives the user an amount of money to put into savings
-from your budget.
+- The Main project is a project to build an application that gives the user an amount of money to put into savings from your budget.
 
-The basis for this idea is the Rahakratt's Challenge: https://drive.google.com/file/d/19ivNSayY12XhD8oR4fbD7vuedN-WktTW/view?usp=share_link.
+The basis for this idea is the **Rahakratt's Challenge**
+<details>
+    <summary>Click here to see image</summary>
+    
+    ![](https://static-img.aripaev.ee/?type=preview&uuid=c7f9cb3c-a446-5f7a-a420-f2d07810014d&width=2000&q=85)
+
+</details>
 
 2. What is the MVP (Minimal Viable Product)?
 - The MVP will consist of a program that has:
