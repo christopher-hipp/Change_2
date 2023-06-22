@@ -9,50 +9,63 @@ The basis for this idea is **Rahakratt's Challenge**.
 
 </details>
 
-## What is the MVP (Minimal Viable Product)?
-The MVP will consist of a program that has:
-1. an array of predefined values that add up to 1000;
+## MVP (Minimal Viable Product)
+1. Use an array of predefined values that add up to 1000 (same as in Rahakratt's challenge)
 
-   a. use same values as in original challenge (for some reason the total of these values is 1020, not 1000);
+       6, 9, 19, 28, 22, 19, 35,
+       15, 6, 28, 20, 17, 18, 22,
+       4, 20, 8, 26, 19, 15, 29,
+       5, 17, 11, 19, 9, 21, 60,
+       31, 18, 22, 27, 5, 23, 0,
+       8, 21, 15, 40, 12, 34, 11,
+       19, 25, 13, 22, 17, 9, 51,
+       33, 17, 20
 
-        6, 9, 19, 28, 22, 19, 35,
-        15, 6, 28, 20, 17, 18, 22,
-        4, 20, 8, 26, 19, 15, 29,
-        5, 17, 11, 19, 9, 21, 60,
-        31, 18, 22, 27, 5, 23, 0,
-        8, 21, 15, 40, 12, 34, 11,
-        19, 25, 13, 22, 17, 9, 51,
-        33, 17, 20
+   (for some reason the total of these values is 1020, not 1000)
 
-2. the ability to give a random value from the array;
+2. Select a random value from the array and display it to the user
 
-   a. select random value;
+3. Keep track of changes in the array
 
-   b. display the value to the user;
+   a. Display remaining values 
 
-3. the ability to keep track of changes in the array; and
+   b. Add selected random value to array of used values
+   
+   c. Remove selected random value from active array
 
-   a. add selected random value to array of used values;
+4. Display the total amount saved in a separate array
 
-   b. remove selected random value from active array;
+   a. add the used values together and display the total amount saved
 
-4. the ability to show the total amount saved in a separate array.
+---
 
-   a. add used values to get the total amount saved.
+**Completed on 4/Jun/2023.**
 
-## What are the nice to haves?
-The nice to haves are the following:
-1. the ability to allow custom amount to be saved;
-2. the ability to randomise the values in the array, given that the total of these values is the custom amount;
-3. a simple visual representation of the array and values in the terminal,
+---
 
-   a. and later on a proper GUI;
+## Additional functionality (nice to have)
+**Note that this list is not exhaustive and will be subject to change as I progress.**
+
+### Custom input
+1. Ask the user for a custom value as total
+
+2. Allow the user to select custom time frame
+
+   a. If no custom time frame is used, use 52 as default (52 weeks in a year)
+
+3. Split custom value by dividing with custom (or default) time frame
+
+   a. If average is with a decimal point, round down to the nearest integer
+
+      - Calculate the missing amount (custom total - average * custom time frame)
+
+   b.  ... ***couldn't be bothered to continue, wanted to start coding lol***
+
+4. a simple visual representation of the array and values in the terminal
 
 4. the ability to allow multiple savings profiles; and
 5. the ability to show the user's savings history.
 
-**Note that this list is not exhaustive and will be subject to change as I progress.**
-
 ## When will the project be complete?
-When all of the above has been fulfilled. New ideas and improvements are welcomed throughout this process. 
-Project will be complete when I am happy with it, not when it gets difficult.
+ 
+**Project will be complete when I am happy with it, not when it gets difficult.**

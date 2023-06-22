@@ -3,11 +3,11 @@ import java.util.Iterator;
 import java.util.Random;
 import java.util.ArrayList;
 
-public class Change {
+public class ChangeRK {
     private ArrayList<Integer> array;
     private ArrayList<Integer> usedArray;
 
-    public Change() {
+    public ChangeRK() {
         this.array = new ArrayList<>();
         this.usedArray = new ArrayList<>();
     }
@@ -23,7 +23,6 @@ public class Change {
                                                 33, 17, 20};
 
         Collections.addAll(this.array, initialArray);
-        System.out.println("Total of initial values is: " + valuesTotal() + "\n");
     }
 
     public int selectValue() {

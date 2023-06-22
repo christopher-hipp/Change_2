@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Interface UI = new Interface();
-        UI.loop();
+        Interface Game = new Interface();
+        Game.mainLoop();
     }
 }
